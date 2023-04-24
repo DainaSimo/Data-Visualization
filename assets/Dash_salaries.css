@@ -1,0 +1,41 @@
+#container4{
+    height: 200vh;
+    width: auto;
+    background-color:black;
+    text-align: center;
+    margin: 0%;
+    display: block;
+}
+#titre{
+    text-align: center;
+    font-size: 3em;
+    color: beige;
+
+}
+#graph1{
+    width:700px;
+    height: 300px;
+    display:inline-block;
+    margin:5px;
+}
+
+#graph2{
+    width:700px;
+    height: 300px;
+    display:inline-block;
+    margin:5px;
+}
+
+#graph3{
+    width:700px;
+    height: 300px;
+    display:inline-block;
+    margin:5px; 
+}
+
+#graph6{
+    width:700px;
+    height: 300px;
+    display:inline-block;
+    margin:5px; 
+}
