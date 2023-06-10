@@ -1,0 +1,70 @@
+#container4{
+    height: 200vh;
+    width: auto;
+    background-color:black;
+    text-align: center;
+    margin: 0%;
+    display: block;
+}
+#titre{
+    text-align: center;
+    font-size: 1.5em;
+    color: beige;
+    font-style: italic;
+    margin-left:   600px;
+
+}
+
+#titre1{
+
+    color: beige;
+    font-style: bold;
+    margin-right: 5PX;
+    margin-left: 60px;
+
+}
+#graph1{
+    width:700px;
+    height: 400px;
+    display:inline-block;
+    margin:3px;
+    border-radius: 40px;
+}
+
+#graph2{
+    width:700px;
+    height: 400px;
+    display:inline-block;
+    margin:3px;
+    border-radius: 40px;
+}
+
+#graph3{
+    width:700px;
+    height: 300px;
+    display:inline-block;
+    margin:3px; 
+    border-radius: 40px;
+}
+
+#graph6{
+    width:700px;
+    height: 300px;
+    display:inline-block;
+    margin:3px;
+    border-radius: 40px;
+}
+
+#container5{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#search{
+    width: 25em;
+    height: 2.5em;
+    
+}
+
+
