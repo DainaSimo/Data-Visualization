@@ -1,8 +1,10 @@
 # Dash_projects
 
-Ce projet a pour but de faire un tableau de bord des metiers de la data science avec le Framework Dash/plotly de python.
+Ce projet a pour but de concevoir  un tableau de bord des metiers de la data science des années 2021, 2022 et 2023. La technologie utilisée ici est Framework Dash/plotly de python.
 
-A ce t effet, plusieurs variables sont utilisées à savoir:
+Les indicateurs de performance ici sont : Les salaires par metier, la repartition des metiers, les salaires des metiers en fonction de la taille des entreprises et le salaire des metiers qui exercent en remote
+
+Les variables utilisées sont les suivantes : 
 
  1   L'année de travail
  2   Le niveau d'experience    
